@@ -10,3 +10,4 @@ rm /tmp/my_first_directory/betty script delete betty from tmp
 rm -d /tmp/my_first_directory script delete the dir
 cd .. script take me back one step
 ls -la . .. /boot script list the files inside working dir, parent and boot
+file /tmp/iamafile show the type of file 
