@@ -16,3 +16,4 @@ cp -un copy just files not exist and the newer one
 mv [[:upper]]* move any file begian with uppercase letter
 rm *~ delete all file with ~ 
 la -amvp special list
+file -c -m magic file
