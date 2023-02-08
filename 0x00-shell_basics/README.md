@@ -1,1 +1,2 @@
-This script show path of the current directory
+pwd script show path of the current directory
+ls script show the the lis of current directory
