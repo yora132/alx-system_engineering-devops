@@ -13,4 +13,5 @@ ls -la . .. /boot script list the files inside working dir, parent and boot
 file /tmp/iamafile show the type of file
 ln -s script make a symbolic link
 cp -un copy just files not exist and the newer one
-mv [[:upper]]* move any file begian with uppercase letter 
+mv [[:upper]]* move any file begian with uppercase letter
+rm *~ delet all file with ~ 
