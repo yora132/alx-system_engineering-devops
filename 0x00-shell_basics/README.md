@@ -7,3 +7,4 @@ ls -na show list with long format,hidden files and user and group IDs
 mkdir /tmp/my_first_directory script create a directory in tmp
 mv betty /tmp/my_first_directory move betty file to my_first_dirictory in tmp
 rm /tmp/my_first_directory/betty script delete betty from tmp
+rm -d /tmp/my_first_directory script delete the dir
